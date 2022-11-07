@@ -1,6 +1,6 @@
 - <h1 align="center">Hi 👋, I'm Andrés F. Pereira</h1>
 
-- 🌱 I’m currently learning **Java, Git**
+- 🌱 I’m currently learning **Java, Git, C++**
 
 - 📫 How to reach me **animacion96@gmail.com**
 
